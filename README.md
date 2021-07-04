@@ -1,8 +1,8 @@
 I am an upsidedown person developing open source software around the game Minecraft in my free time.
 
-- 🔭 I mainly work on [ViaVersion](https://github.com/ViaVersion), but also a few smaller projects, like [Maintenance](https://github.com/KennyTV/Maintenance) or [WorldEditSUI](https://github.com/KennyTV/WorldEditSUI).
-- ✨ I worked with egg82 to realize a [MrBeast project of supporting 1000 players on one Minecraft server](https://youtu.be/SbJYXcTolUk?t=777).
-- 📆 Server projects I work(ed) on are NeruxVace, Luminu, [Cytooxien](https://www.cytooxien.de/), and [OriginRealms](https://originrealms.com/). <!-- Luminu is dead and NeruxVace is 💩 --> 
+- 🔭 I mainly work on [ViaVersion](https://github.com/ViaVersion); I also help out at [Paper](https://github.com/PaperMC/Paper) and work on smaller projects like [Maintenance](https://github.com/KennyTV/Maintenance).
+- ✨ I worked with egg82 to realize a <!-- really cursed -->[MrBeast project of supporting 1000 players on one Minecraft server](https://youtu.be/SbJYXcTolUk?t=777).
+- 📆 Server projects I work(ed) on are NeruxVace, Luminu, [Cytooxien](https://www.cytooxien.de/), and [OriginRealms](https://originrealms.com/).
 - 👺 Sometimes I [shame people on the internet](https://github.com/KennyTV/list-of-shame).
 - ❤ You can support me using [GitHub Sponsors](https://github.com/sponsors/kennytv/).
 
